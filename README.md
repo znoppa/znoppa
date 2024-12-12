@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
+--------------------------------------
 
-- 📫 Get in Touch
+📫 Get in Touch
 ```
 echo "Email: vitorrei1276@gmail.com"
 echo "Phone: +55 (19) 99830-6937"
