@@ -30,6 +30,6 @@ echo "Ready to connect, code, and create magic together!"
 ```
 <div> 
   
-![znoppa's GitHub stats](https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![znoppa's GitHub stats](https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=donut&theme=radical)](https://github.com/znoppa/github-readme-stats)
 
 </div>
