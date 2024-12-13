@@ -13,9 +13,10 @@
 <body>
     
     
-<div class="container">
-    <img src="./imagens/header olho jinx.gif" alt="">
+<div style="text-align: center;">
+    <img src="./imagens/gif maior.gif" alt="" >
 </div>
+
 
 </body>
 </html>
