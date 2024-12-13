@@ -7,14 +7,6 @@
 -------------------------------------------
 
 ## 🌟 About Me
-### 🎓 System.out.println("System Development Student");
-**Currently debugging my second year at ETEC Euro Albino de Souza, compiling creativity with logic to develop impactful solutions.**
-
-```
-echo "Based in Mogi Guaçu-SP, Brazil";
-# Adapting to every challenge with a mix of design flair and problem-solving skills.
-```
-
 ### 💡 What I'm Learning
 
 ### 📘 Languages:
@@ -34,7 +26,6 @@ echo "Basic English for tech growth";
 - if (project.isInnovative()) { keepDeveloping(); }
 - Level up my design and tech stack!
 - collaborate(team).buildMeaningfulSolutions();
-- 
 --------------------------------------
 
 📫 Get in Touch
