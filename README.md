@@ -1,22 +1,8 @@
 ## 👋 Hello, World! I'm Vitor Reis
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" href="/imagens/cont.css">
-</head>
-<body>
-    
-    
 <div style="text-align: center;">
     <img src="./imagens/gif maior.gif" alt="" >
 </div>
-
-
-</body>
-</html>
 
 -------------------------------------------
 
@@ -26,7 +12,7 @@
 
 ```
 echo "Based in Mogi Guaçu-SP, Brazil";
-Adapting to every challenge with a mix of design flair and problem-solving skills.
+# Adapting to every challenge with a mix of design flair and problem-solving skills.
 ```
 
 ### 💡 What I'm Learning
