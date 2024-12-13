@@ -20,18 +20,11 @@ echo "Basic English for tech growth";
 ### 🎨 Specialization:
 
 **Graphic Design + E-Sports Visuals = Unique User Experiences**
-
-### 🎯 Goals
-
-- if (project.isInnovative()) { keepDeveloping(); }
-- Level up my design and tech stack!
-- collaborate(team).buildMeaningfulSolutions();
 --------------------------------------
 
 📫 Get in Touch
 ```
 echo "Email: vitorrei1276@gmail.com"
-echo "Phone: +55 (19) 99830-6937"
 echo "Linkedin: www.linkedin.com/in/vitor-reis-noppa"
 echo "Ready to connect, code, and create magic together!"
 ```
