@@ -25,14 +25,6 @@ print("SQL")
 echo "Basic English for tech growth";
 ```
 
-### 🛠 Tools & Technologies:
-
-```
-git status (Version control master)
-mysql_connect() (Data lover)
-cmd.exe (Always ready to troubleshoot!)
-```
-
 ### 🎨 Specialization:
 
 **Graphic Design + E-Sports Visuals = Unique User Experiences**
@@ -42,19 +34,7 @@ cmd.exe (Always ready to troubleshoot!)
 - if (project.isInnovative()) { keepDeveloping(); }
 - Level up my design and tech stack!
 - collaborate(team).buildMeaningfulSolutions();
-
-💼 Professional Experience
-```
-# Freelance Designer
-echo "Designing since 2020: Sites, flyers, and e-sports visuals."
-
-# Kitchen Assistant - Acos Dog
-echo "Master of Hot Dogs and Happy Customers (2023-2024)"
-
-# Waiter - Decas Espetinhos
-echo "Serving smiles and skewers with precision (2024)"
-```
-
+- 
 --------------------------------------
 
 📫 Get in Touch
