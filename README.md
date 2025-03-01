@@ -28,7 +28,6 @@
 
 ![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Phyton](https://img.shields.io/badge/Phyton-%2335495e.svg?style=for-the-badge&logo=Phyton&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp&logoColor=white)
@@ -36,13 +35,8 @@
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 ### GitHub Stats ⚡
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
+
+ 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -50,7 +44,13 @@
       src="https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+ 
 
 
 ### Entre em contato comigo! 📭
@@ -58,6 +58,7 @@
     <a href="https://github.com/znoppa">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/znoppa">
     </a>
+
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:vitorrei1276@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vitorrei1276@gmail.com">
