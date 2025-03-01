@@ -29,9 +29,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%2335495e.svg?style=for-the-badge&logo=HTML&logoColor=%234FC08D)
+![Phyton](https://img.shields.io/badge/Phyton-%2335495e.svg?style=for-the-badge&logo=Phyton&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C#-black?style=for-the-badge&logo=C#&logoColor=white)
+![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp&logoColor=white)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
