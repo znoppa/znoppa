@@ -5,7 +5,7 @@
 </div>
 
 -------------------------------------------
-<div align="center"> 
+
 💻 Denvolvedor [Front-End | Back-End | Fullstack]
 
 🎓 Cursando [[Desenvolvimeno de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/))]
@@ -31,18 +31,18 @@
 ![Phyton](https://img.shields.io/badge/Phyton-%2335495e.svg?style=for-the-badge&logo=Phyton&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp&logoColor=white)
-</div>
+
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 ### GitHub Stats ⚡
-<div align="center">
+<div>
 <a href="https://github.com/znoppa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
-<p align="center">
+<p>
     <a href="https://github.com/znoppa">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/znoppa">
     </a>
