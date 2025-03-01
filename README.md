@@ -35,11 +35,9 @@
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/znoppa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&hide=TeX&layout=compact)
+
 
 ### Entre em contato comigo! 📭
 <p>
