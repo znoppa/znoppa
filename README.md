@@ -28,6 +28,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Phyton](https://img.shields.io/badge/Phyton-%2335495e.svg?style=for-the-badge&logo=Phyton&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp&logoColor=white)
@@ -35,8 +36,21 @@
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
 ### GitHub Stats ⚡
-![Github Stats](https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&hide=TeX&layout=compact)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=znoppa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
 
 
 ### Entre em contato comigo! 📭
