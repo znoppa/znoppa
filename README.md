@@ -1,8 +1,8 @@
 ## 👋 Hello, World! I'm Vitor Reis
 
-<div style="text-align: center;">
-    <img src="./imagens/novogif.gif" alt="" >
-</div>
+<p align="center">
+  <img src="imagens/novogif.gif" alt="Banner">
+</p>
 
 -------------------------------------------
 
@@ -24,7 +24,6 @@
 
 
 ### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,11 +31,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp&logoColor=white)
 
-<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-
 ### GitHub Stats ⚡
 
- 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -51,8 +47,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=znoppa&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
- 
-
 
 ### Entre em contato comigo! 📭
 <p>
@@ -63,4 +57,3 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vitor-reis-noppa/">
     </a>
 </p>
-
