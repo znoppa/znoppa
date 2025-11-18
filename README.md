@@ -1,7 +1,7 @@
 ## 👋 Hello, World! I'm Vitor Reis
 
 <div style="text-align: center;">
-    <img src="./imagens/gif maior.gif" alt="" >
+    <img src="./imagens/novogif.gif" alt="" >
 </div>
 
 -------------------------------------------
