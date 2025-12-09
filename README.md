@@ -1,7 +1,7 @@
 ## 👋 Hello, World! I'm Vitor Reis
 
 <p align="center">
-  <img src="./imagens/jinx-correto.gif" alt="Banner">
+  <img src="./imagens/gif maior.gif" alt="Banner">
 </p>
 
 -------------------------------------------
