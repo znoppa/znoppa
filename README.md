@@ -8,7 +8,7 @@
 
 💻 Denvolvedor [Front-End | Back-End | Fullstack]
 
-🎓 Cursando [[Desenvolvimeno de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/))]
+🎓 Técnico em [[Desenvolvimeno de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/))]
 
 
 ### Minhas Tecnologias e Ferramentas:  
