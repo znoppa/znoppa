@@ -8,8 +8,8 @@
 
 💻 Denvolvedor [Front-End | Back-End | Fullstack]
 
-🎓 Cursando [[Análise e Desenvolvimento de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://fatecmm.cps.sp.gov.br/sobre-ads/))]
-- Técnico em [[Desenvolvimeno de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/))]
+🎓 1. Cursando Superior em [[Análise e Desenvolvimento de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://fatecmm.cps.sp.gov.br/sobre-ads/))]
+🎓 2. Técnico em [[Desenvolvimeno de Sistemas]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/))]
 
 
 ### Minhas Tecnologias e Ferramentas:  
