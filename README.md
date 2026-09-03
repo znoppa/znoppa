@@ -27,7 +27,7 @@ Gosto de pegar uma ideia que ainda está meio espalhada e transformar em um sist
 Hoje meu foco está no desenvolvimento de **aplicações web completas**, passando por interface, regras de negócio, banco de dados, painéis administrativos, integrações, segurança e publicação em produção.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na [FATEC Mogi Mirim](https://fatecmm.cps.sp.gov.br/sobre-ads/)
-- 🎓 Técnico em **Desenvolvimento de Sistemas** pela [ETEC Pedro Ferreira Alves](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/)
+- 🎓 Técnico em **Desenvolvimento de Sistemas** pela [ETEC Euro Albino de Souza](https://etecmogiguacu.cps.sp.gov.br/desenvolvimento-de-sistemas/)
 - 💻 Foco atual em **PHP, MVC, PDO, MySQL e JavaScript**
 - 🎨 Experiência com interfaces responsivas usando **Bootstrap, Tailwind CSS e GSAP**
 - 🔐 Interesse constante em **segurança, organização de código, LGPD e boas práticas**
