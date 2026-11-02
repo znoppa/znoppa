@@ -61,7 +61,7 @@ Hoje meu foco está no desenvolvimento de **aplicações web completas**, passan
 
 | | |
 |---|---|
-| **🏍️ Gestão de estoque e CRM**<br>Cadastros, mídia, leads, Kanban, filtros, relatórios e rotinas administrativas. | **🍔 Comandas digitais e sistemas white label**<br>Pedidos, mesas, produção, impressão térmica, delivery e operação por diferentes perfis de usuário. |
+| **🏍️ Gestão de estoque e CRM**<br>Cadastros, mídia, leads, Kanban, filtros, relatórios e rotinas administrativas e captação de clientes automática via n8n | **🍔 Comandas digitais e sistemas white label**<br>Pedidos, mesas, produção, impressão térmica, delivery e operação por diferentes perfis de usuário. |
 | **🌐 Portfólios e experiências web**<br>Sites institucionais, projetos interativos, responsividade, animações e experiência do usuário. | **⚙️ Painéis administrativos e automações**<br>CRUDs, autenticação, uploads, backups, integrações, logs e ferramentas para reduzir trabalho manual. |
 
 Além da parte visual, gosto bastante da camada que o usuário não vê: **estrutura de banco, regras de negócio, segurança, fluxos administrativos e manutenção do sistema depois que ele entra em produção**.
